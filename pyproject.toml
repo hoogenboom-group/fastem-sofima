@@ -28,6 +28,9 @@ dependencies = [
   "webknossos",
   "numpy",
   "tqdm",
+  "scikit-image",
+  "scipy",
+  "matplotlib",
 ]
 
 [project.optional-dependencies]
