@@ -2,6 +2,9 @@
 test-notebooks/
 project-notebooks/
 
+# Saved plots
+plots/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
