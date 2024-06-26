@@ -1,0 +1,44 @@
+[project]
+name = "fastem-sofima"
+version = "0.0.1"
+authors = [
+  { name="arentkievits", email="a.j.kievits@tudelft.nl" },
+]
+keywords = [
+  "image processing",
+  "volume reconstruction",
+  "image stitching",
+  "electron microscopy",
+  "microscopy",
+  "webknossos",
+  "sofima",
+]
+description = "SOFIMA alignment of FAST-EM datasets"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: GNU Affero General Public License v3",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Image Processing",
+]
+dependencies = [
+  "webknossos",
+  "numpy",
+  "tqdm",
+]
+
+[project.optional-dependencies]
+format = [
+  "black",
+  "isort",
+  "flake8",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/hoogenboom-group/fastem-sofima"
+"Bug Tracker" = "https://github.com/hoogenboom-group/fastem-sofima/issues"
+
+[project.scripts]
