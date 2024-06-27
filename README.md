@@ -2,7 +2,7 @@
 Scable Optical Flow-based Image Alignment (SOFIMA) of FAST-EM datasets.
 
 ## Requirements
-- PC or HPC operating a Linux distribution with a decent amount of RAM (>128 GB) and CPUs/GPUs. A single GPU with 12GB was used for testing this software.
+- PC or HPC operating a Linux distribution with a decent amount of RAM (>128 GB) and CPUs/GPUs. A single GPU with 12GB VRAM was used for testing this software.
 - (Remote) access to target datasets on [WebKnossos.org](WebKnossos.org) or a local instance of WebKnossos.
 
 ## Installation
