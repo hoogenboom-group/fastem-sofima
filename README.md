@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12733905.svg)](https://doi.org/10.5281/zenodo.12733905)
 # fastem-sofima
 Scable Optical Flow-based Image Alignment (SOFIMA) of FAST-EM datasets.
 
