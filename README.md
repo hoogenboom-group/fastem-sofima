@@ -1,8 +1,9 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12733905.svg)](https://doi.org/10.5281/zenodo.12733905)
 # fastem-sofima
 Scable Optical Flow-based Image Alignment (SOFIMA) of FAST-EM datasets.
 
 ## Requirements
-- PC or HPC with a decent amount of (V)RAM and CPUs/GPUs
+- PC or HPC operating a Linux distribution with a decent amount of RAM (>128 GB) and CPUs/GPUs. A single GPU with 12GB VRAM was used for testing this software.
 - (Remote) access to target datasets on [WebKnossos.org](WebKnossos.org) or a local instance of WebKnossos.
 
 ## Installation
