@@ -31,6 +31,7 @@ dependencies = [
   "scikit-image",
   "scipy",
   "matplotlib",
+  "jax[cuda12]",
 ]
 
 [project.optional-dependencies]
