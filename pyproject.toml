@@ -32,6 +32,8 @@ dependencies = [
   "scipy",
   "matplotlib",
   "jax[cuda12]",
+  "jupyter",
+  "ipywidgets",
 ]
 
 [project.optional-dependencies]
