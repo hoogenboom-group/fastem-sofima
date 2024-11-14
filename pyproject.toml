@@ -34,6 +34,7 @@ dependencies = [
   "jax[cuda12]",
   "jupyter",
   "ipywidgets",
+  "sofima @ git+https://github.com/google-research/sofima@v20240119",
 ]
 
 [project.optional-dependencies]

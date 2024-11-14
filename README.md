@@ -18,13 +18,7 @@ Activate environment:
 source /path/to/new/virtual/environment/bin/activate
 ```
 
-SOFIMA is implemented in Python and can be installed from the Github repository (ensure `venv`or `conda`/`mamba` env is active):  
-
-```
-pip install git+https://github.com/google-research/sofima
-```
-
-`fastem-sofima` likewise can be directly installed from Github:  
+`fastem-sofima` can be directly installed from Github:  
 
 ```
 pip install git+https://github.com/hoogenboom-group/fastem-sofima
